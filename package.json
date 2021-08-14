@@ -1,17 +1,15 @@
 {
-  "name": "tonspeed",
+  "name": "clean-vuex-project",
   "version": "1.0.0",
   "private": true,
-  "description": "TON NETWORK SPEED MONITOR",
+  "description": "clean vuex project",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "main": "webpack.config.js",
-  "dependencies": {
-    "@tonclient/core": "^1.18.1",
-    "@tonclient/lib-web": "^1.18.1",
+  "dependencies": {    
     "bootstrap": "^5.0.2",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
@@ -52,6 +50,6 @@
     "last 2 versions",
     "not dead"
   ],
-  "_id": "tonspeed@1.0.0",
+  "_id": "clean-vuex-project@1.0.0",
   "readme": "ERROR: No README data found!"
 }

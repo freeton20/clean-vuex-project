@@ -1,4 +1,4 @@
-# tonspeed
+# clean vuex project
 
 ## Project setup
 ```
